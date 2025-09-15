@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Zoran aSiM — White Papers (Zenodo Collection)"
+message: "If you use this collection, please cite as below."
+authors:
+  - family-names: "Tabary"
+    given-names: "Frédéric"
+    email: "tabary01@gmail.com"
+    affiliation: "Institut IA Lab / AIformpro / Zoran InstituteIA"
+license: MIT
+doi: "10.5281/zenodo.17119676"
+version: "1.0.0"
+date-released: 2025-09-15
