@@ -1,12 +1,9 @@
 cff-version: 1.2.0
-title: "Zoran aSiM — White Papers (Zenodo Collection)"
-message: "If you use this collection, please cite as below."
+message: "If you use this, please cite it."
+title: "ZORAN_openbench Proofs"
 authors:
-  - family-names: "Tabary"
-    given-names: "Frédéric"
-    email: "tabary01@gmail.com"
-    affiliation: "Institut IA Lab / AIformpro / Zoran InstituteIA"
-license: MIT
-doi: "10.5281/zenodo.17119676"
-version: "1.0.0"
-date-released: 2025-09-15
+  - family-names: "Openbench"
+    given-names: "ZORAN"
+date-released: "2025-09-17"
+version: "1.0"
+doi: "10.0000/zoran.openbench.proofs"
